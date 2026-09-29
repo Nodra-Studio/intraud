@@ -51,7 +51,7 @@ export default function CompanyIntro() {
           </h2>
 
           <p className="mt-6 max-w-xl text-lg leading-relaxed text-(--color-steel-300)">
-            Intraud desarrolla y fabrica equipos de soldadura, corte y energía
+            Intraud desarrolla y fabrica equipos de soldadura, corte plasma y Cargadores de baterias
             desde Mercedes, Buenos Aires, combinando trayectoria, conocimiento
             técnico y producción nacional.
           </p>

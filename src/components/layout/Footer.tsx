@@ -61,7 +61,7 @@ export default function Footer() {
             </Link>
 
             <p className="mt-6 max-w-sm leading-relaxed text-(--color-steel-300)">
-              Equipos de soldadura, corte y energía desarrollados para taller,
+              Equipos de soldadura, corte plasma y Cargadores de baterias desarrollados para taller,
               obra e industria.
             </p>
 

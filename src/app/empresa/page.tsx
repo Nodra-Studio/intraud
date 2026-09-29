@@ -18,11 +18,7 @@ const milestones = [
   },
   {
     year: "1949",
-<<<<<<< HEAD
-    text: "la planta se instala en Mercedes para acercarse a sus proveedores y clientes.",
-=======
     text: "La empresa se instala en Mercedes para acercarse a sus proveedores y clientes.",
->>>>>>> dac1d02859d4fce62fe936c8525d35498964e720
   },
   {
     year: "1995",
