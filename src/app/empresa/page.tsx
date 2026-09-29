@@ -5,7 +5,7 @@ import Link from "next/link";
 import PageHero from "@/components/layout/PageHero";
 
 export const metadata: Metadata = {
-  title: "Equipo",
+  title: "Empresa",
   description:
     "Conocé la historia, la planta industrial y el desarrollo argentino detrás de los equipos Intraud desde 1946.",
   alternates: { canonical: "/Equipo" },
