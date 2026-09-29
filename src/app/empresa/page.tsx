@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "Empresa",
   description:
     "Conocé la historia, la planta industrial y el desarrollo argentino detrás de los equipos Intraud desde 1946.",
-  alternates: { canonical: "/Empresa" },
+  alternates: { canonical: "/empresa" },
 };
 
 const milestones = [
@@ -18,7 +18,7 @@ const milestones = [
   },
   {
     year: "1949",
-    text: "El Equipo se instala en Mercedes para acercarse a sus proveedores y clientes.",
+    text: "La empresa se instala en Mercedes para acercarse a sus proveedores y clientes.",
   },
   {
     year: "1995",
@@ -57,9 +57,9 @@ export default function CompanyPage() {
   return (
     <main id="contenido-principal">
       <PageHero
-        eyebrow="Equipo"
+        eyebrow="Empresa"
         title="Tres generaciones construyendo industria."
-        description="Desde 1946 desarrollamos y fabricamos equipos de soldadura, corte plasma y cargadores arrancadores de baterias en Mercedes, Buenos Aires."
+        description="Desde 1946 desarrollamos y fabricamos equipos de soldadura, corte y energía en Mercedes, Buenos Aires."
       />
 
       <section className="py-16 lg:py-24">

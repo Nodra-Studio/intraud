@@ -61,7 +61,8 @@ export default function Footer() {
             </Link>
 
             <p className="mt-6 max-w-sm leading-relaxed text-(--color-steel-300)">
-              Equipos de soldadura, corte plasma y cargadores de baterías.
+              Equipos de soldadura, corte y energía desarrollados para taller,
+              obra e industria.
             </p>
 
             <address className="mt-5 space-y-2 text-sm not-italic text-(--color-steel-300)">

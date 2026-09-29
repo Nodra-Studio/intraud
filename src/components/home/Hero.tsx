@@ -41,7 +41,8 @@ export default function Hero() {
           </h1>
 
           <p className="mt-6 max-w-xl text-[1.0625rem] leading-relaxed text-(--color-steel-300) sm:text-lg md:mt-8 md:text-xl">
-            Equipos de soldadura, corte plasma y cargadores de baterías.
+            Equipos de soldadura y corte desarrollados para responder en taller,
+            obra e industria.
           </p>
 
           <div className="mt-8 flex flex-col items-start gap-4 sm:flex-row sm:items-center sm:gap-5 md:mt-10">
@@ -53,7 +54,7 @@ export default function Hero() {
             </Link>
 
             <Link
-              href="/Empresa"
+              href="/empresa"
               className="inline-flex min-h-12 items-center gap-2 font-semibold transition-colors hover:text-(--color-brand-red)"
             >
               Conocé Intraud
