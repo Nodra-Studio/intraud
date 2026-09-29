@@ -1,6 +1,6 @@
 export const navigation = [
   { label: "Servicio técnico", href: "/servicio-tecnico" },
-  { label: "Equipo", href: "/Equipo" },
+  { label: "Empresa", href: "/Empresa" },
   { label: "Contacto", href: "/contacto" },
 ];
 
