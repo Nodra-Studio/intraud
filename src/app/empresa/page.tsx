@@ -59,7 +59,7 @@ export default function CompanyPage() {
       <PageHero
         eyebrow="Equipo"
         title="Tres generaciones construyendo industria."
-        description="Desde 1946 desarrollamos y fabricamos equipos de soldadura, corte y energía en Mercedes, Buenos Aires."
+        description="Desde 1946 desarrollamos y fabricamos equipos de soldadura, corte plasma y cargadores arrancadores de baterias en Mercedes, Buenos Aires."
       />
 
       <section className="py-16 lg:py-24">
