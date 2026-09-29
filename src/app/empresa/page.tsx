@@ -18,7 +18,11 @@ const milestones = [
   },
   {
     year: "1949",
+<<<<<<< HEAD
     text: "la planta se instala en Mercedes para acercarse a sus proveedores y clientes.",
+=======
+    text: "La empresa se instala en Mercedes para acercarse a sus proveedores y clientes.",
+>>>>>>> dac1d02859d4fce62fe936c8525d35498964e720
   },
   {
     year: "1995",
@@ -59,7 +63,7 @@ export default function CompanyPage() {
       <PageHero
         eyebrow="Empresa"
         title="Tres generaciones construyendo industria."
-        description="Desde 1946 desarrollamos y fabricamos equipos de soldadura, corte plasma y cargadores arrancadores de baterias en Mercedes, Buenos Aires."
+        description="Desde 1946 desarrollamos y fabricamos equipos de soldadura, corte plasma y cargadores de baterías en Mercedes, Buenos Aires."
       />
 
       <section className="py-16 lg:py-24">
