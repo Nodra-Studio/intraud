@@ -53,7 +53,7 @@ export default function Hero() {
             </Link>
 
             <Link
-              href="/Equipo"
+              href="/Empresa"
               className="inline-flex min-h-12 items-center gap-2 font-semibold transition-colors hover:text-(--color-brand-red)"
             >
               Conocé Intraud
