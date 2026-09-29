@@ -57,7 +57,7 @@ export default function CompanyIntro() {
           </p>
 
           <Link
-            href="/empresa"
+            href="/Equipo"
             className="mt-8 inline-flex min-h-12 w-fit items-center gap-2 font-semibold transition-colors hover:text-(--color-brand-red)"
           >
             Conocé nuestra historia

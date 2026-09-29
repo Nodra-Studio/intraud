@@ -5,10 +5,10 @@ import Link from "next/link";
 import PageHero from "@/components/layout/PageHero";
 
 export const metadata: Metadata = {
-  title: "Empresa",
+  title: "Equipo",
   description:
     "Conocé la historia, la planta industrial y el desarrollo argentino detrás de los equipos Intraud desde 1946.",
-  alternates: { canonical: "/empresa" },
+  alternates: { canonical: "/Equipo" },
 };
 
 const milestones = [
@@ -18,7 +18,7 @@ const milestones = [
   },
   {
     year: "1949",
-    text: "La empresa se instala en Mercedes para acercarse a sus proveedores y clientes.",
+    text: "El Equipo se instala en Mercedes para acercarse a sus proveedores y clientes.",
   },
   {
     year: "1995",
@@ -57,7 +57,7 @@ export default function CompanyPage() {
   return (
     <main id="contenido-principal">
       <PageHero
-        eyebrow="Empresa"
+        eyebrow="Equipo"
         title="Tres generaciones construyendo industria."
         description="Desde 1946 desarrollamos y fabricamos equipos de soldadura, corte y energía en Mercedes, Buenos Aires."
       />

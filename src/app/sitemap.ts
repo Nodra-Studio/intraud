@@ -18,7 +18,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.8,
     },
     {
-      url: `${siteConfig.url}/empresa`,
+      url: `${siteConfig.url}/Equipo`,
       changeFrequency: "yearly",
       priority: 0.7,
     },
